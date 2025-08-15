@@ -1,5 +1,5 @@
 # NYC Taxi Data EDA & Optimization
-> **"Turning NYC taxi rides into data-driven roadmaps for smarter city travel."** 🚖📊
+> **"Turning NYC taxi rides into data-driven roadmaps for smarter city travel."** 
 
 ## Overview
 This project performs Exploratory Data Analysis (EDA) and optimization on the NYC Taxi dataset. It includes data cleaning, visualization, and insights to improve taxi service efficiency.
